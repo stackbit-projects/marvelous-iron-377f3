@@ -59,6 +59,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: aa
   - type: FeaturedPostsSection
     elementId: ''
     variant: variant-a
