@@ -5,7 +5,7 @@ date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
 excerpt: >-
   This feature is the thing you were missing in your workflow, thank god we have
-  it for you to use.
+  it for you to use.??
 featuredImage:
   type: ImageBlock
   url: /images/pile-of-fish.png
